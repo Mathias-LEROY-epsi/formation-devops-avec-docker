@@ -1,5 +1,10 @@
 # formation-devops-avec-docker
+
 Mathias Leroy
+
+## sources
+- [jenkins sous docker](https://www.jenkins.io/doc/book/installing/docker/)
+- [configurer un agent sous jenkins](https://learn.microsoft.com/fr-fr/azure/developer/jenkins/scale-deployments-using-vm-agents?tabs=windows)
 
 # Mise en place d'une pipeline Jenkins
 
